@@ -1,6 +1,6 @@
 # scrolle_bottom_sheet
 
-A new Flutter project.
+解决当BottoSheet中含有listview等滚动组件时下拉退出无效问题
 
 ## Getting Started
 
