@@ -2,15 +2,8 @@
 
 解决当BottoSheet中含有listview等滚动组件时下拉退出无效问题
 
-## Getting Started
+## 相关文章
+[Flutter中由于滑动冲突导致BottomSheet中含有Listview等滚动组件时下拉效果失效问题](https://juejin.cn/post/6997774040236572680)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 效果
+![bottom_sheet.gif](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5a7f2b4645cf4a439f698fb89ab749be~tplv-k3u1fbpfcp-watermark.image)
